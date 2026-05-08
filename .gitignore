@@ -7,7 +7,7 @@
 bin/
 out/
 target/
-*.png
+
 # IDE settings
 .vscode/
 .idea/

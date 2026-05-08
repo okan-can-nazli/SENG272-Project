@@ -19,10 +19,10 @@ Student ID   : 202428405
   SCREENSHOTS
 ------------------------------------------------------------
 
-  Step 1 - Profile     : step1.png
-  Step 2 - Define      : step2.png
-  Step 3 - Plan        : step3.png
-  Step 4 - Collect     : step4.png
-  Step 5 - Analyse     : step5.png
+  Step 1 - Profile     : screenshots/step1.png
+  Step 2 - Define      : screenshots/step2.png
+  Step 3 - Plan        : screenshots/step3.png
+  Step 4 - Collect     : screenshots/step4.png
+  Step 5 - Analyse     : screenshots/step5.png
 
 ============================================================
