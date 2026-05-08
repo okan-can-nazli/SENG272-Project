@@ -2,7 +2,7 @@ package model;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Under scenario layer second high layer
 // groups multiple metrics under a single quality category (e.g. Usability, Reliability)
 // example object: new Dimension("Usability", 25)
 
